@@ -10,5 +10,8 @@
     2 way binding
     Adding styling(inline and external)
     
-
+## How to run the app
+    Clone the project
+    yarn install
+    yarn start
 
